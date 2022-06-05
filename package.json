@@ -1,0 +1,23 @@
+{
+  "name": "note-app-website-nodejs",
+  "version": "1.0.0",
+  "description": "note app made with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/pratamailham206/note-app-website-nodejs.git"
+  },
+  "author": "ilham pratama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/pratamailham206/note-app-website-nodejs/issues"
+  },
+  "homepage": "https://gitlab.com/pratamailham206/note-app-website-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
